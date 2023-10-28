@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Simple-calculator          |  This is a simple calculator that performs basic arithmetic operations, such as addition, subtraction, multiplication, and division           | https://github.com/Samidirbsa/Simple-calculator.git      |
+| 2 |  To-do-list-app         |  This is a simple to-do list app that allows users to add, edit, and delete tasks. It also allows users to mark tasks as done.           | https://github.com/Samidirbsa/To-do-list-app.git     |
+| 3 |  Weather-app             |  This is a simple weather app that displays the current weather conditions and forecast for a specific location.             | https://github.com/Samidirbsa/Weather-app.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
